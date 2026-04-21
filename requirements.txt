@@ -1,0 +1,11 @@
+# Data Fetching & Handling
+yfinance
+pandas
+numpy
+
+# Machine Learning & Deep Learning
+tensorflow
+scikit-learn
+
+# Visualization
+matplotlib
