@@ -31,5 +31,5 @@ This project uses Deep Learning to predict the future closing price of a stock (
 
 💡 Key Results
 
-Root Mean Squared Error (RMSE): 
+Root Mean Squared Error (RMSE): 2.15
 Conclusion: The model effectively tracks stock trends, though it is intended for educational purposes and not financial advice. 
